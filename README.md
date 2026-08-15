@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-Wii/blob/master/retroarch/overlay/GameBezels/Wii/Animal%20Crossing%20-%20City%20Folk%20(USA)%20(En,Fr,Es).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-Wii/blob/master/retroarch/overlay/GameBezels/Wii/Animal%20Crossing%20-%20City%20Folk%20(USA)%20(En,Fr,Es).png?raw=true)
